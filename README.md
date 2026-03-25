@@ -1,4 +1,4 @@
-- ✋ Hi, I’m Davronbek Sattorov
+- Hey 👋 
 
 
 <!---
