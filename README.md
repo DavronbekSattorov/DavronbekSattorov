@@ -1,6 +1,6 @@
 - Hey,  I can write some lines of code 👋 
 
-
+you also?
 <!---
 DavronbekSattorov/DavronbekSattorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
